@@ -1,4 +1,4 @@
-# Hey, I'm Grig
+# 👋 Hey, I'm Grig
 
 Software engineer. Building things, breaking things, shipping things.
 
