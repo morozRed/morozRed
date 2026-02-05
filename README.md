@@ -11,7 +11,6 @@ I write about shipping fast, making tradeoffs, and the messy reality of building
 - 🦴 [skelly](https://github.com/morozRed/skelly) - LLM-friendly codebase structure maps
 - ⚙️ [trakt](https://github.com/morozRed/trakt) - lightweight, YAML-first ETL framework for tabular pipelines
 - 🔍 [skilllens](https://github.com/morozRed/skilllens) - lightweight CLI tool to audit skills using LLMs
-- 📋 jotchain - coming soon
 
 ---
 
