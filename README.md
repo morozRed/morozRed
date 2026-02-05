@@ -8,11 +8,10 @@ I write about shipping fast, making tradeoffs, and the messy reality of building
 
 ### What I'm building
 
-**[JotChain](https://jotchain.app)** — Note-taking with scheduled summaries and workflow insights
-`Rails` `AI` `Productivity`
-
-**[Waytale](https://waytale.app)** — AI-powered audio guides that turn city walks into adventures
-`Rails` `AI` `Travel`
+- 🦴 [skelly](https://github.com/morozRed/skelly) - LLM-friendly codebase structure maps
+- ⚙️ [trakt](https://github.com/morozRed/trakt) - lightweight, YAML-first ETL framework for tabular pipelines
+- 🔍 [skilllens](https://github.com/morozRed/skilllens) - lightweight CLI tool to audit skills using LLMs
+- 📋 jotchain - coming soon
 
 ---
 
