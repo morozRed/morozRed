@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Grig
 
-Software engineer. Building things, breaking things, shipping things.
+Product engineer
 
-I write about shipping fast, making tradeoffs, and the messy reality of building products at [morozred.com](https://morozred.com).
+I write about making tradeoffs, and the messy reality of building products at [morozred.com](https://morozred.com).
 
 ---
 
@@ -11,6 +11,7 @@ I write about shipping fast, making tradeoffs, and the messy reality of building
 - 🦴 [skelly](https://github.com/morozRed/skelly) - LLM-friendly codebase structure maps
 - ⚙️ [trakt](https://github.com/morozRed/trakt) - lightweight, YAML-first ETL framework for tabular pipelines
 - 🔍 [skilllens](https://github.com/morozRed/skilllens) - lightweight CLI tool to audit skills using LLMs
+- 🎵 [InworldAiKit](https://github.com/morozRed/InworldAiKit) - lightweight CLI tool to audit skills using LLMs
 
 ---
 
