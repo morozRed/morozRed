@@ -11,7 +11,7 @@ I write about making tradeoffs, and the messy reality of building products at [m
 - 🦴 [skelly](https://github.com/morozRed/skelly) - LLM-friendly codebase structure maps
 - ⚙️ [trakt](https://github.com/morozRed/trakt) - lightweight, YAML-first ETL framework for tabular pipelines
 - 🔍 [skilllens](https://github.com/morozRed/skilllens) - lightweight CLI tool to audit skills using LLMs
-- 🎵 [InworldAiKit](https://github.com/morozRed/InworldAiKit) - lightweight CLI tool to audit skills using LLMs
+- 🎵 [InworldAiKit](https://github.com/morozRed/InworldAiKit) - Swift helpers for InworldAI API
 
 ---
 
